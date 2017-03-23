@@ -1,0 +1,125 @@
+body {
+background-color: #9b99cc;
+}
+
+header {
+
+}
+
+main {
+
+}
+
+footer {
+
+}
+
+.navbar {
+background-color: #9b99cc;
+}
+
+.navbar-brand{
+font-size: 42px;
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+color: #ffe500;
+font-size: 45px;
+text-align: center;
+}
+
+h2 {
+color: #ffe500;
+font-size: 25px;
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+color: #ffe500;
+font-size: 25px;
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+color:#ffe500;
+text-align: center;
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+float: right;
+}
+
+
+/*** link styles ***/
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
